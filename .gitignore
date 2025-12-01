@@ -27,6 +27,7 @@ assetInfo.json
 
 # Production
 */build
+*/.obsidian
 
 # Generated files
 .docusaurus
