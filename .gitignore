@@ -26,7 +26,7 @@ assetInfo.json
 */node_modules
 
 # Production
-*/build
+#*/build
 */.obsidian
 
 # Generated files
